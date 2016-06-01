@@ -36,7 +36,7 @@ foobarfoobar
 
 # License
 The MIT License (MIT)
-Copyright (c) 2016 MinYoung Jung (http://kkung.net)
+Copyright (c) 2016 Minyonug Jeong (http://kkung.net)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
